@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://oluwatobiloba.vercel.app/static/media/toby.38ea9dc622c0f5a5ed20.png" align="center" style="width: 20%"/>
+<img src="https://oluwatobiloba.vercel.app/static/media/toby.d3baf32e34506731636b.gif" align="center" style="width: 20%"/>
 </div>  
  <br/>
 
